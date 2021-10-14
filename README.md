@@ -1,4 +1,4 @@
-Terragrunt Local Exec with Python Script
+# Terragrunt Local Exec with Python Script
 
 ```
 terragrunt apply-all
